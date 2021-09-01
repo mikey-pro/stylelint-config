@@ -4,7 +4,7 @@
 
 Lint and format code (the way Mikey likes it)
 
-## <table>
+## <table align="center">
   <tbody>
     <tr>
       <td valign="top">
