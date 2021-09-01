@@ -4,18 +4,9 @@
 
 Lint and format code (the way Mikey likes it)
 
-## <table align="center">
-  <tbody>
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/mikey-pro/style-guide">Style Guide</a>
-      </td>
-      <td valign="top">
-        <a href="https://github.com/mikey-pro/theme">Theme</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+### [Style Guide](https://github.com/mikey-pro/style-guide) + [Theme](https://github.com/mikey-pro/theme)
+
+---
 
 </div>
 
