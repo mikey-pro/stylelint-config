@@ -2,6 +2,26 @@
   "name": "@mikey-pro/stylelint-config",
   "version": "1.0.0",
   "description": "Mikey Pro Stylelint configuration",
+  "peerDependencies": {
+    "stylelint": "^13.0",
+    "stylelint-config-standard": "^22.0",
+    "stylelint-order": "^4.0"
+  },
+  "files": [
+    "index.cjs",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikey-pro/stylelint-config.git"
+  },
+  "homepage": "https://github.com/mikey-pro/style-guide#readme",
+  "author": "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)",
+  "bugs": {
+    "url": "https://github.com/mikey-pro/stylelint-config/issues"
+  },
   "keywords": [
     "@mikey-pro/stylelint-config",
     "@mikey-pro",
@@ -9,28 +29,14 @@
     "mikey",
     "pro",
     "stylelint-config",
+    "stylelintconfig",
     "stylelint",
     "config",
     "style-guide",
     "style",
     "guide"
   ],
-  "homepage": "https://github.com/mikey-pro/style-guide#readme",
-  "bugs": {
-    "url": "https://github.com/mikey-pro/stylelint-config/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mikey-pro/stylelint-config.git"
-  },
-  "license": "MIT",
-  "author": "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)",
   "contributors": [
     "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)"
-  ],
-  "files": [
-    "index.cjs",
-    "README.md",
-    "LICENSE"
   ]
 }
