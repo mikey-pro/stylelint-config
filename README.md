@@ -15,16 +15,16 @@
 Install Stylelint config:
 
 ```shell
-  npm i -D @mikey-pro/stylelint-config
+npm i -D @mikey-pro/stylelint-config
 ```
 
 Extend to Stylelint in `package.json`:
 
 ```json
-  {
-    "stylelint":
-      {
-        "extends": ["@mikey-pro/stylelint-config"]
-      }
-  }
+{
+  "stylelint":
+    {
+      "extends": ["@mikey-pro/stylelint-config"]
+    }
+}
 ```
