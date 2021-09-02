@@ -18,6 +18,8 @@ A preset Stylelint configuration for use with the Mikey Pro style guide
 
 ```shell
 npm i -D @mikey-pro/stylelint-config
+
+yarn add -D @mikey-pro/stylelint-config
 ```
 
 ### Configure
