@@ -22,9 +22,8 @@ Extend to Stylelint in `package.json`:
 
 ```json
 {
-  "stylelint":
-    {
-      "extends": ["@mikey-pro/stylelint-config"]
-    }
+  "stylelint": {
+    "extends": ["@mikey-pro/stylelint-config"]
+  }
 }
 ```
