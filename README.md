@@ -8,15 +8,19 @@
 
 </div>
 
-## @mikey-pro/stylelint-config
+## **@mikey-pro/stylelint-config**
 
-### Usage
+A preset Stylelint configuration for use with the Mikey Pro style guide
 
-Install Stylelint config:
+## Usage
+
+### Install
 
 ```shell
 npm i -D @mikey-pro/stylelint-config
 ```
+
+### Configure
 
 Extend to Stylelint in `package.json`:
 
