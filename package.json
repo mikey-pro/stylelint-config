@@ -3,9 +3,9 @@
   "version": "1.0.5",
   "description": "Mikey Pro Stylelint configuration",
   "peerDependencies": {
-    "stylelint": "^13.0",
+    "stylelint": "^13.13",
     "stylelint-config-standard": "^22.0",
-    "stylelint-order": "^4.0"
+    "stylelint-order": "^4.1"
   },
   "files": [
     "index.js",
