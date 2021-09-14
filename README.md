@@ -15,7 +15,7 @@
 
 ## **@mikey-pro/stylelint-config**
 
-A preset Stylelint configuration for use with the Mikey Pro style guide
+A preset Stylelint configuration
 
 <div>
   <a href="https://www.npmjs.com/package/@mikey-pro/stylelint-config"
