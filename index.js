@@ -15,5 +15,6 @@ module.exports = {
     '.*.mjs',
     '.*.json',
     '.*',
+    'dist',
   ],
 };
