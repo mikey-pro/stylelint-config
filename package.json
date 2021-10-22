@@ -1,6 +1,6 @@
 {
   "name": "@mikey-pro/stylelint-config",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Mikey Pro Stylelint configuration",
   "peerDependencies": {
     "stylelint": "^14.0",
