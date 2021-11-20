@@ -4,8 +4,8 @@
   "description": "Mikey Pro Stylelint configuration",
   "main": "index.cjs",
   "dependencies": {
-    "@primer/stylelint-config": "^12.1.0",
-    "stylelint": "^14.0"
+    "@primer/stylelint-config": "^12.1.1",
+    "stylelint": "^14.1"
   },
   "devDependencies": {
     "stylelint-config-idiomatic-order": "^8.1.0"
