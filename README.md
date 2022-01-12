@@ -34,7 +34,9 @@ Extend to Stylelint in `package.json`:
 ```json
 {
   "stylelint": {
-    "extends": ["@mikey-pro/stylelint-config"]
+    "extends": [
+      "@mikey-pro/stylelint-config"
+    ]
   }
 }
 ```
