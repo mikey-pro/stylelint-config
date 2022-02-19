@@ -3,9 +3,7 @@
   "version": "2.1.5",
   "description": "Mikey Pro Stylelint configuration",
   "main": "index.js",
-  "dependencies": {
-    "@primer/stylelint-config": "^12.3.1"
-  },
+  "dependencies": {},
   "peerDependencies": {
     "stylelint": ">=14.1"
   },
