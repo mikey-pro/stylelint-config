@@ -4,9 +4,6 @@
   "description": "Mikey Pro Stylelint configuration",
   "main": "index.js",
   "dependencies": {},
-  "peerDependencies": {
-    "stylelint": ">=14.1"
-  },
   "files": [
     "index.js",
     "README.md",
